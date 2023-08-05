@@ -2,6 +2,9 @@
 
 Spring Boot - Micro Service Multi Web services APIs - REST, GraphQL, SOAP GRPC
 
+micro-service : customer-data-service
+client-micro-service : customer-service-account
+
 Using : 
 - Spring Boot 3.1.1
 - Java 17
